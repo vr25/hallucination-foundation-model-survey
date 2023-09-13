@@ -4,6 +4,7 @@ This repository will be updated to include all the contemporary papers related t
 ## Text
 ### LLMs
 1. [SELFCHECKGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models](https://arxiv.org/pdf/2303.08896.pdf)
+2. [HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://arxiv.org/pdf/2305.11747.pdf)
 
 ### Multilingual LLMs
 1. [Hallucinations in Large Multilingual Translation Models](https://arxiv.org/pdf/2303.16104.pdf)
@@ -21,7 +22,12 @@ This repository will be updated to include all the contemporary papers related t
 
 
 ## Video
+1. [Let’s Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction](https://arxiv.org/pdf/2305.13903.pdf)
+2. [Putting People in Their Place: Affordance-Aware Human Insertion into Scenes](https://openaccess.thecvf.com/content/CVPR2023/papers/Kulal_Putting_People_in_Their_Place_Affordance-Aware_Human_Insertion_Into_Scenes_CVPR_2023_paper.pdf)
+3. [VideoChat : Chat-Centric Video Understanding](https://arxiv.org/pdf/2305.06355.pdf)
 
 
 
 ## Audio
+1. [LP-MusicCaps: LLM-Based Pseudo Music Captioning](https://arxiv.org/pdf/2307.16372.pdf)
+2. [Audio-Journey: Efficient Visual+LLM-aided Audio Encodec Diffusion](https://openreview.net/pdf?id=vzMXsTCdFB)
