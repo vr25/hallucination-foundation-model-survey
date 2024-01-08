@@ -19,6 +19,7 @@ This repository will be updated to include all the contemporary papers related t
 14. [Citation: A Key to Building Responsible and Accountable Large Language Models](https://arxiv.org/pdf/2307.02185.pdf)
 15. [Zero-resource hallucination prevention for large language models](https://arxiv.org/pdf/2309.02654.pdf)
 16. [RARR: Researching and Revising What Language Models Say, Using Language Models](https://aclanthology.org/2023.acl-long.910.pdf)
+17. [The Curious Case of Hallucinatory (Un)answerability: Finding Truths in the Hidden States of Over-Confident Large Language Models](https://aclanthology.org/2023.emnlp-main.220.pdf)
 
 ### Multilingual LLMs
 1. [Hallucinations in Large Multilingual Translation Models](https://arxiv.org/pdf/2303.16104.pdf)
