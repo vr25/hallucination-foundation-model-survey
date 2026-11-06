@@ -20,6 +20,8 @@ This repository will be updated to include all the contemporary papers related t
 15. [Citation: A Key to Building Responsible and Accountable Large Language Models](https://arxiv.org/pdf/2307.02185.pdf)
 16. [Zero-resource hallucination prevention for large language models](https://arxiv.org/pdf/2309.02654.pdf)
 17. [RARR: Researching and Revising What Language Models Say, Using Language Models](https://aclanthology.org/2023.acl-long.910.pdf)
+18. [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://openreview.net/forum?id=CyUq9D99vE)
+19. [SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786)
 
 ### Multilingual LLMs
 1. [Hallucinations in Large Multilingual Translation Models](https://arxiv.org/pdf/2303.16104.pdf)
